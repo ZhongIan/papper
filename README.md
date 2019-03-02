@@ -28,7 +28,9 @@
 # 程式碼
 
 markdown 有索引，輸入輸出不容易看出
-[論文code](./wk_13-New/wk_13-New.md)
+
+[論文code[markdown]](./wk_13-New/wk_13-New.md)
 
 ipynd 索引無用，輸入輸出易辨識
-[論文code](./wk_13-New.ipynb)
+
+[論文code[ipynd]](./wk_13-New.ipynb)
