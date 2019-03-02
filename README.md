@@ -27,4 +27,4 @@
 
 # 程式碼
 
-[論文code](./wk_13-New.ipynb)
+[論文code](./wk_13-New/wk_13-New.md)
