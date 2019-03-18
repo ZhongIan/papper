@@ -27,10 +27,8 @@
 
 # 程式碼
 
-markdown 目錄有索引，輸入輸出不容易看出
+.ipynb檔Github不好看，用 https://nbviewer.jupyter.org/ 比較好
 
-[論文code[markdown]](./wk_13-New/wk_13-New.md)
+jupyter:
 
-ipynd 目錄索引無用，輸入輸出易辨識
-
-[論文code[ipynd]](./wk_13-New.ipynb)
+[論文code[ipynd]](https://nbviewer.jupyter.org/github/ZhongIan/papper/blob/master/wk_13-New.ipynb)
